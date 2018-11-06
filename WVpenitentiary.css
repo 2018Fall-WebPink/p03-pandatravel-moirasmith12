@@ -1,0 +1,22 @@
+/*
+* Moira Smith
+* November 5th, 2018
+* Project 03 Panda Travel Agency 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+ background-color: lightgray;
+        color: black
+
+}
+#prisoncell { width: 200px; height: 300px; }
+#electricchair { width: 200px; height: 300px; }
+#Outside { width: 300px; height: 200px; }
